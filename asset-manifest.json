@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bohuslind.se/static/css/main.d1eec4fe.css",
+    "main.js": "/bohuslind.se/static/js/main.6b20d6bb.js",
+    "static/media/bohuslind-logo-web.svg": "/bohuslind.se/static/media/bohuslind-logo-web.4359f30d36b2ddeffc1b40c6cb1eaa51.svg",
+    "index.html": "/bohuslind.se/index.html",
+    "main.d1eec4fe.css.map": "/bohuslind.se/static/css/main.d1eec4fe.css.map",
+    "main.6b20d6bb.js.map": "/bohuslind.se/static/js/main.6b20d6bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1eec4fe.css",
+    "static/js/main.6b20d6bb.js"
+  ]
+}
