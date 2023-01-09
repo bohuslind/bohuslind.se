@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1eec4fe.css",
+    "main.css": "/static/css/main.4785f259.css",
     "main.js": "/static/js/main.3d4228e9.js",
     "static/media/bohuslind-logo-web.svg": "/static/media/bohuslind-logo-web.4359f30d36b2ddeffc1b40c6cb1eaa51.svg",
     "index.html": "/index.html",
-    "main.d1eec4fe.css.map": "/static/css/main.d1eec4fe.css.map",
+    "main.4785f259.css.map": "/static/css/main.4785f259.css.map",
     "main.3d4228e9.js.map": "/static/js/main.3d4228e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1eec4fe.css",
+    "static/css/main.4785f259.css",
     "static/js/main.3d4228e9.js"
   ]
 }
