@@ -21,16 +21,13 @@ export default function Home() {
       </div>
 
       <style jsx>{`
-        #root {
-          height: 100%;
-        }
-
         #page {
           height: 100%;
           display: flex;
           align-items: center;
           justify-content: center;
           flex-direction: column;
+          flex: 1;
         }
 
         #logo {
@@ -54,8 +51,6 @@ export default function Home() {
       `}</style>
 
       <style jsx global>{`
-        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
-
         @keyframes animateBg {
           0% { background-position: 0% 0%; }
           100% { background-position: 100% 0%; }
@@ -81,6 +76,11 @@ export default function Home() {
           background-image: linear-gradient(115deg,#99d5ed,#99dec9,#ffcc99,#99d5ed,#99dec9);
           font-family: 'Noto Sans Mono', sans-serif;
           transform: translateZ(0);
+        }
+
+        body > div,
+        body > div > div {
+          height: 100%;
         }
       `}</style>
     </div>
