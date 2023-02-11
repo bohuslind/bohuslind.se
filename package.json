@@ -1,12 +1,13 @@
 {
   "name": "bohuslind.se",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https:///bohuslind.se",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next build && next export"
   },
   "dependencies": {
     "@fontsource/noto-sans-mono": "^4.5.13",

@@ -7,7 +7,6 @@ module.exports = {
       issuer: /\.[jt]sx?$/,
       use: ['@svgr/webpack'],
     })
-
     return config
   },
   assetPrefix: isProd ? '/bohuslind.se/' : '',
