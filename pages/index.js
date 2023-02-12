@@ -15,13 +15,14 @@ export default function Home() {
 
       <div id="page">
         <div id="logo">
-          <Logo />
+          <Logo width="100%" height="100%"/>
         </div>
         <span>EU VAT SE559359356801</span>
       </div>
 
       <style jsx>{`
         #page {
+          align-self: stretch;
           height: 100%;
           display: flex;
           align-items: center;
@@ -31,6 +32,7 @@ export default function Home() {
         }
 
         #logo {
+          max-width: 420px;
           padding-top: 40px;
           flex: 1;
           display: flex;
@@ -39,8 +41,9 @@ export default function Home() {
           align-items: center;
         }
 
-        svg {
-          max-width: 80%;
+        #logo > svg {
+          width: 100%;
+          height: 100%;
         }
 
         span {
