@@ -9,7 +9,7 @@ module.exports = {
     })
     return config
   },
-  assetPrefix: isProd ? '/bohuslind.se/' : '',
+  //assetPrefix: isProd ? '/bohuslind.se/' : '',
   images: {
     unoptimized: true,
   },
