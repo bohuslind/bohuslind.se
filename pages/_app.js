@@ -1,3 +1,4 @@
+import styles from '../styles/globals.css';
 import { GoogleAnalytics } from "nextjs-google-analytics";
 import "@fontsource/noto-sans-mono";
 
