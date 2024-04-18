@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Bohuslind Solutions AB</title>
+        <title>Bohuslind</title>
         <meta name="viewport" content="initial-scale=1, viewport-fit=cover, width=device-width" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -16,7 +16,6 @@ export default function Home() {
         <div id="logo">
           <Logo id="logosvg" />
         </div>
-        <span>EU VAT SE559359356801</span>
       </div>
     </>
   )
