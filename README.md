@@ -1,4 +1,4 @@
-# Bohuslind Solutions AB
+# Bohuslind Solutions
 
 👉 [bohuslind.se](https://bohuslind.se/) 
 👉 [bohuslind.eu](https://bohuslind.eu/) 
